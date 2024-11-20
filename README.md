@@ -1,5 +1,8 @@
 # Vidcoder4 Installation and Operation Guide
 
+*Note: If you wishe to use the .exe version, it could be flagged as a virus. However, you can ignore the python installation requirements.
+*FFmpeg must still be installed according to the provided instructions.
+
 ## Table of Contents
 
 * [Overview](#overview)
