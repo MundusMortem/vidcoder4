@@ -3,6 +3,8 @@
 *Note: If you wishe to use the .exe version, it could be flagged as a virus. However, you can ignore the python installation requirements.
 *FFmpeg must still be installed according to the provided instructions.
 
+![](/relative/path/to/Diagram-of-Video-Clip-Software.jpg?raw=true "")
+
 ## Table of Contents
 
 * [Overview](#overview)
